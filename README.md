@@ -68,3 +68,5 @@ In this sample I chose to use a .NET 5 WPF application so that the sample is hel
 The sample is based on [Microsoft Machine Learning Sample](https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/end-to-end-apps/ObjectDetection-Onnx).
 
 You can check the source code [here](src). As with most of my WPF projects I used MahApps and ReactiveUI but those are not required.
+
+forked
